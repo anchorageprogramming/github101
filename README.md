@@ -5,7 +5,7 @@ A training project for github.
 
 # What is github?
 It is a web-based hosting service for software development projects using the Git revision control system. 
-- Stolen from [wikipedia](http://en.wikipedia.org/wiki/GitHub).
+*Stolen from [wikipedia](http://en.wikipedia.org/wiki/GitHub).*
 
 # What does that mean?
 Are you familiar with Wikipedia? People from all over the world are able to edit, view, and add to the information on Wikipedia. Github is a similar concept.
@@ -26,7 +26,7 @@ https://github.com/
 * Click the **New Repository** button on the main github page. 
 * Pick a project name, select a *public* repo, and check the box to initialize it with a readme.
 
-# Check out Your Repo
+# Check out your Repo
 * Hmmmm.........how do we work locally on a project that exists on the website? We need a client. 
 * Download the app and install using the appropriate link below:
   * Windows: http://windows.github.com/
