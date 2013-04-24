@@ -9,9 +9,9 @@ It is a web-based hosting service for software development projects using the Gi
 
 # What does that mean?
 Are you familiar with Wikipedia? People from all over the world are able to edit, view, and add to the information on Wikipedia. Github is a similar concept.
-* Central Access: As long as someone has internet access, she can access the project.
-* Track Changes: Using git, you can see the history of changes made to a file.
-* Collaboration: Using git, merging your changes with other people is simplified.
+* **Central Access**: As long as someone has internet access, she can access the project.
+* **Track Changes**: Using git, you can see the history of changes made to a file.
+* **Collaboration**: Others can use your project as a starting point for their own effrts, or contribute to yours. Using git, merging your changes with other people's changes is simplified.
 
 # What is git?
 If Github is like x, git is like y. Git is how we track and collaborate, github is where we store a project.
@@ -52,3 +52,9 @@ https://github.com/
 * Once you are ready, you can fill out the box on the right with a commit messages.
 * The commit message should succintly describe the changes you made. If you need to be in depth, use the extended description box.
 * Click **commit**
+
+# Check the Github site for your changes
+* Switch back to the browser where your github project lives, do you see your changes?
+* Changes made on your local machine are not pushed back up to the global repo until you sync your code.
+* Switch back to the github client, click the highlighted **sync** button at the top of the window.
+* Now if you head back to the website, you can review your changes.
