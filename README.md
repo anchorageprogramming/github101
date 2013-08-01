@@ -4,9 +4,9 @@ Github 101
 A training project for GitHub.
 
 ## Download the GitHub Client (already done!)
-~~* Download the app using the appropriate link below:~~
-  ~~* Windows: http://windows.github.com/~~
-  ~~* Mac: http://mac.github.com/~~
+* Download the app using the appropriate link below:
+  * Windows: http://windows.github.com/
+  * Mac: http://mac.github.com/
   
 ## What is GitHub?
 It is a web-based hosting service for software development projects using the Git revision control system. 
