@@ -25,7 +25,7 @@ Git is a version control system, a way to manage changes to documents. Git is ho
 * **Commit**: Snapshot of changes to a document.
 * **Sync**: Push and pull changes with a remote repository.
 
-## Create an Account
+## Create an account
 https://github.com/
 
 ## Create a repo (repository)
