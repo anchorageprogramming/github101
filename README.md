@@ -3,10 +3,10 @@ Github 101
 
 A training project for github.
 
-## Download the GitHub Client
+<del>## Download the GitHub Client (already done!)
 * Download the app using the appropriate link below:
   * Windows: http://windows.github.com/
-  * Mac: http://mac.github.com/
+  * Mac: http://mac.github.com/</del>
   
 ## What is github?
 It is a web-based hosting service for software development projects using the Git revision control system. 
@@ -35,7 +35,7 @@ https://github.com/
 * Select a *public* repo and check the box to initialize it with a readme.
 
 ## Check out your Repo
-* Once the github client is installed, add your github username information. 
+* <del>Once the github client is installed,</del> add your github username information. 
 * Click on your username on the left.
 * Select the project and click clone
 * Click the arrow next to your project, you will see your initial commit.
